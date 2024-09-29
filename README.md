@@ -53,5 +53,9 @@ These scripts and assets together seem to provide the necessary functionality fo
 
 ## Future Improvements
 
-1. **Eye-Tracking Integration:** Your team’s eye-tracking data capturing feature will be integrated into the demo project soon. Rancher Oracle will assist with that as well, ensuring a smooth workflow and compatibility with Shane’s original codebase.
+1. **Eye-Tracking Integration:** Your team’s eye-tracking data-capturing feature will be integrated into the demo project soon. Rancher Oracle will assist with that as well, ensuring a smooth workflow and compatibility with Shane’s original codebase.
 2. **Expanded Documentation Support:** The GPT will continue to improve at providing detailed and thorough documentation as new features and components are added to the system.
+
+## Aditional Information
+
+I provided the PDF of the research paper to the student who passed the project down to us published. You're welcome to take a look if you're interested in a more in-depth analysis of the project we are currently expanding on.
