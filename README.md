@@ -1,5 +1,9 @@
 # Rancher Oracle GPT
 
+## Link to Rancher Oracle GPT
+
+https://chatgpt.com/g/g-RCOxUM3Mc-the-rancher-oracle
+
 ## Project Overview
 
 Rancher Oracle GPT is a custom AI assistant designed to streamline the development, troubleshooting, and feature integration process for Shane's Machine Rancher project. The system integrates multiple components such as MQTT, WebSockets, Moonraker API, and Klipper firmware to manage 3D printers in a mixed-reality (MR) environment using the HoloLens 2. Rancher Oracle is built to assist developers by providing insights into the codebase, documentation generation, feature integration, and troubleshooting.
